@@ -1,3 +1,4 @@
+//UC 1
 function showTime(){
     const date = new Date();
     return "Hrs: "+date.getHours()+" Mins: "+date.getMinutes()+" Secs: "
